@@ -1,0 +1,32 @@
+.ct-section {
+    padding: 25px 20px ;
+
+}
+
+.ct-card-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin: 0 auto;
+}
+
+.ct-card-container h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--color-font-secondary);
+    text-align: center;
+}
+
+
+
+@media (min-width: 960px) {
+
+    .ct-section h2 {
+        font-size: 32px;
+    }
+
+    .ct-card-container {
+        max-width: 946px;
+    }
+}

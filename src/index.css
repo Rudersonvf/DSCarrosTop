@@ -4,6 +4,8 @@
     --color-bg-header-primary: #3C9AF0;
     --color-bg-primary: #fff;
     --color-font-primary: #fff;
+    --color-font-secondary: #5E5E5E;
+    --color-border-primary: #3C9AF0;
 }
 
 * {

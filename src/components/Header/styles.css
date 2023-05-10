@@ -8,8 +8,13 @@ header {
 }
 
 header h1 {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 700;
     color: var(--color-font-primary);
+}
 
+@media (min-width: 960px) {
+    header h1 {
+        font-size: 24px;
+    } 
 }

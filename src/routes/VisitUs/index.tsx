@@ -1,5 +1,6 @@
 import Card from '../../components/Card';
 import Comments from '../../components/Comments';
+import Footer from '../../components/Footer';
 import Header from '../../components/Header';
 import './styles.css';
 
@@ -27,6 +28,7 @@ export default function VisitUs() {
                     </div>
                 </section>
             </main>
+            <Footer />
         </>
     );
 }

@@ -3,6 +3,10 @@
 
 }
 
+.ct-section:nth-child(2) {
+    background-color: var(--color-bg-secondary);
+}
+
 .ct-card-container {
     width: 100%;
     display: flex;
@@ -26,7 +30,11 @@
         font-size: 32px;
     }
 
-    .ct-card-container {
-        max-width: 946px;
+    #ct-card-id {
+        max-width: 746px;
+    }
+
+    #ct-comment-id{
+        max-width: 960px;
     }
 }

@@ -1,0 +1,11 @@
+.ct-comment-card {
+    width: 100%;
+    max-width: 960px;
+    border: 1px solid var(--color-border-primary);
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--color-font-tertiary);
+    background-color: var(--color-bg-primary);
+    padding: 25px 20px;
+    border-radius: 10px;
+}

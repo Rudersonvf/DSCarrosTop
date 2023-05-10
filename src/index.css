@@ -3,8 +3,10 @@
 :root {
     --color-bg-header-primary: #3C9AF0;
     --color-bg-primary: #fff;
+    --color-bg-secondary: #C8C8C8;
     --color-font-primary: #fff;
     --color-font-secondary: #5E5E5E;
+    --color-font-tertiary: #3C9AF0;
     --color-border-primary: #3C9AF0;
 }
 
